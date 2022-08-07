@@ -53,3 +53,7 @@ buck-out/
 .expo/
 web-build/
 dist/
+
+# Configuration
+GoogleService-Info.plist
+google-services.json
